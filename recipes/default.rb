@@ -1,4 +1,5 @@
-#
+include_recipe 'workstation::disable-uac'
+
 # Cookbook:: workstation
 # Recipe:: default
 #
